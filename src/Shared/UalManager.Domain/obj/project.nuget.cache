@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJCUK7pMzQkAHrVtaoJUIfvOO7YrO+HHmpwum7EuOUJOj0XKMxzN44uE8zl1qVZ8RdhPJ6uydb+lnLDZL4mkXA==",
+  "dgSpecHash": "WJrrHi2NSQyGQAG+SH/BEZb66kAJZtWbY8N1nLTU5Mtv1AF4/9golGrv8ar8oNMgrAGuHUgAzCnOmR6wnNnLiw==",
   "success": true,
-  "projectFilePath": "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\UalManager.Domain.csproj",
+  "projectFilePath": "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\UalManager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

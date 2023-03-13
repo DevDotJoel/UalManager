@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BFK/MIVlwUkcmeyzWuL6hW3OUPcfNw9r+d2TexZQF+Vn9rMX0CXDjtELOucqKLajf5RpnyWyye9uTovPGTrxQ==",
+  "dgSpecHash": "LGqpWbnnsbV0cNcU6ZqulSu0msYzcNCuACZrLzlj7KoRBjsNqVoOktwV6hBHSt7c2h6Clox+CY3Bfo4bRam8Zg==",
   "success": true,
-  "projectFilePath": "D:\\Apps\\UalManager\\src\\services\\UalManager.PublicApi\\UalManager.PublicApi.csproj",
+  "projectFilePath": "D:\\Apps\\UalManager\\src\\Services\\UalManager.PublicApi\\UalManager.PublicApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NB27822\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\NB27822\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

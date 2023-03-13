@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\UalManager.Domain.csproj": {}
+    "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\UalManager.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\UalManager.Domain.csproj": {
+    "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\UalManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\UalManager.Domain.csproj",
+        "projectUniqueName": "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\UalManager.Domain.csproj",
         "projectName": "UalManager.Domain",
-        "projectPath": "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\UalManager.Domain.csproj",
+        "projectPath": "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\UalManager.Domain.csproj",
         "packagesPath": "C:\\Users\\NB27822\\.nuget\\packages\\",
-        "outputPath": "D:\\Apps\\UalManager\\src\\shared\\UalManager.Domain\\obj\\",
+        "outputPath": "D:\\Apps\\UalManager\\src\\Shared\\UalManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NB27822\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apps\\UalManager\\src\\services\\UalManager.Api\\UalManager.Api.csproj": {}
+    "D:\\Apps\\UalManager\\src\\Services\\UalManager.Api\\UalManager.Api.csproj": {}
   },
   "projects": {
-    "D:\\Apps\\UalManager\\src\\services\\UalManager.Api\\UalManager.Api.csproj": {
+    "D:\\Apps\\UalManager\\src\\Services\\UalManager.Api\\UalManager.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apps\\UalManager\\src\\services\\UalManager.Api\\UalManager.Api.csproj",
+        "projectUniqueName": "D:\\Apps\\UalManager\\src\\Services\\UalManager.Api\\UalManager.Api.csproj",
         "projectName": "UalManager.Api",
-        "projectPath": "D:\\Apps\\UalManager\\src\\services\\UalManager.Api\\UalManager.Api.csproj",
+        "projectPath": "D:\\Apps\\UalManager\\src\\Services\\UalManager.Api\\UalManager.Api.csproj",
         "packagesPath": "C:\\Users\\NB27822\\.nuget\\packages\\",
-        "outputPath": "D:\\Apps\\UalManager\\src\\services\\UalManager.Api\\obj\\",
+        "outputPath": "D:\\Apps\\UalManager\\src\\Services\\UalManager.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NB27822\\AppData\\Roaming\\NuGet\\NuGet.Config",
