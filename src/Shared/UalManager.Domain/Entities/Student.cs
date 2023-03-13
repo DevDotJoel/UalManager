@@ -14,5 +14,7 @@ namespace UalManager.Domain.Entities
         public string Vat { get; set; }
         public string Email { get; set; }
         public int MyProperty { get; set; }
+        public DateTime CreatedDate { get ; set; }
+        public DateTime LastUpdateDate { get ; set; }
     }
 }
