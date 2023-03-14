@@ -1,10 +1,13 @@
 import express from 'express'
+import { courseService } from '../application/services/course/course.service'
 
 const courseRouter = express.Router()
-
-// GET /route1/foo
-courseRouter.get('/', (req, res) => {
-  res.send({name:"joel"})
-})
-
 export default courseRouter
+
+courseRouter.get('/', async (req, res) => {
+
+  res.send(await courseService.getAllCourses())
+})
+courseRouter.post('/', async (req, res) => {
+  res.send(await courseService.addCourse(req.body))
+})
